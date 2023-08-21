@@ -1,6 +1,7 @@
 ## Parte 2: Integración de Desarrollo, Seguridad y Operaciones
 
 - ### Colaboración entre equipos de desarrollo, seguridad y operaciones.
+  ![](screens/Colaboracion_entre_equipos.png)
   DevSecOps es un marco de trabajo que integra las prácticas de seguridad en el ciclo de vida del desarrollo de software. Este marco promueve la colaboración entre los equipos de desarrollo, seguridad y operaciones, lo que permite la entrega continua de software de alta calidad con seguridad integrada (Owasp, 2021).
 
   En un entorno DevSecOps, los equipos de desarrollo, seguridad y operaciones trabajan juntos desde el principio del ciclo de vida del desarrollo de software. Esta colaboración permite que los problemas de seguridad se identifiquen y se resuelvan más rápidamente, lo que reduce el tiempo de lanzamiento al mercado y mejora la calidad del software (IBM, 2020).
