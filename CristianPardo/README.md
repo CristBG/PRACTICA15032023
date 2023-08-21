@@ -37,8 +37,7 @@
   - Red Hat. (2021). [What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
 
 - ### Ejemplos de flujos de trabajo y prácticas colaborativas.
-  Un ejemplo de flujo de trabajo en un entorno DevSecOps podría ser el siguiente:
-
+  
   - Los equipos de desarrollo, seguridad y operaciones colaboran para definir los requerimientos del software.
   - El equipo de desarrollo comienza a desarrollar el software, usando herramientas como Docker y Jenkins para automatizar el proceso.
   - El equipo de seguridad realiza pruebas de seguridad continuas durante todo el ciclo de vida del desarrollo, usando herramientas como SonarQube.
