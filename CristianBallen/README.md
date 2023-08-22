@@ -7,4 +7,4 @@ La automatización de DevOps consiste en incorporar las tecnologías que ejecuta
   ![](imagenes/imagen_automatizacion.png)
  
   **Referencias:**
-  -	Hat, R. (8 de Enero de 2019). [¿Qué es la automatización de DevOps?] https://www.redhat.com/es/topics/automation/what-is-devops-automation#:~:text=La%20automatizaci%C3%B3n%20de%20DevOps%20consiste,aplicaciones%20en%20la%20producci%C3%B3n%20con
+  -	Hat, R. (8 de Enero de 2019). [¿Qué es la automatización de DevOps?] (https://www.redhat.com/es/topics/automation/what-is-devops-automation#:~:text=La%20automatizaci%C3%B3n%20de%20DevOps%20consiste,aplicaciones%20en%20la%20producci%C3%B3n%20con)
