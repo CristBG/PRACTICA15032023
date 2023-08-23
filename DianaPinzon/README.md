@@ -39,7 +39,3 @@
    
    **Referencias:**
   - IBM. (2020). [Ventajas DevSecOps?](https://www.ibm.com/mx-es/topics/devsecops)
-
-- ### Breve historia y evolución de DevSecOps.
-  
-  
