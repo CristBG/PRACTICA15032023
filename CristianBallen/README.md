@@ -1,6 +1,6 @@
 ## Parte 3: Automatización y Prácticas de Seguridad
 
-- ### Automatización de pruebas de seguridad, análisis estático y dinámico de código. .
+- ### Automatización de pruebas de seguridad, análisis estático y dinámico de código.
 
 La automatización de DevOps consiste en incorporar las tecnologías que ejecutan tareas con poca intervención humana en los procesos que facilitan los ciclos de retroalimentación entre los equipos de operaciones y los de desarrollo, para implementar las actualizaciones constantes de las aplicaciones en la producción con mayor rapidez.
 
@@ -22,7 +22,7 @@ Eso significa que DevSecOps brinda a los equipos de operaciones y desarrollo de 
 
 - ### Implementación de prácticas de revisión de seguridad en cada etapa del desarrollo.
 
-mplementar DevSecOps es desplazar la seguridad hacia la izquierda. Es integrarla en el proceso de desarrollo tecnológico antes de que aparezca la primera línea de código. Adoptar DevSecOps es introducir en el SDLC requisitos y pruebas de seguridad, priorización y remediación de vulnerabilidades y seguimiento riguroso para la prevención de riesgos y el ahorro de costos. A diferencia de las metodologías anteriores, la identificación y corrección de los problemas de seguridad se producen al mismo tiempo que la actividad de desarrollo, sin esperar al final de cada ciclo. En DevSecOps, la seguridad actúa en la planificación, diseño, construcción, pruebas y lanzamiento del software, proporcionando retroalimentación continua a todos los equipos comprometidos.
+Implementar DevSecOps es desplazar la seguridad hacia la izquierda. Es integrarla en el proceso de desarrollo tecnológico antes de que aparezca la primera línea de código. Adoptar DevSecOps es introducir en el SDLC requisitos y pruebas de seguridad, priorización y remediación de vulnerabilidades y seguimiento riguroso para la prevención de riesgos y el ahorro de costos. A diferencia de las metodologías anteriores, la identificación y corrección de los problemas de seguridad se producen al mismo tiempo que la actividad de desarrollo, sin esperar al final de cada ciclo. En DevSecOps, la seguridad actúa en la planificación, diseño, construcción, pruebas y lanzamiento del software, proporcionando retroalimentación continua a todos los equipos comprometidos.
 
   ![](imagenes/imagen_integracion.png)
 
